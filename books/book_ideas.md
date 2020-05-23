@@ -7,3 +7,5 @@
 - [x] CVS by tutorials
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
+- [ ] SwiftUI by Tutorials
+- [ ] Combine by Tutorials
